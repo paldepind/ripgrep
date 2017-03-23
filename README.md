@@ -111,7 +111,7 @@ give you a glimpse at some important downsides or missing features of
   supported.)
 * `ripgrep` doesn't yet support searching compressed files. (Likely to be
   supported in the future.)
-* `ripgrep` doesn't have multiline search. (Unlikely to ever be supported.)
+* `ripgrep` doesn't have multiline search.
 
 In other words, if you like fancy regexes, searching compressed files or
 multiline search, then `ripgrep` may not quite meet your needs (yet).
